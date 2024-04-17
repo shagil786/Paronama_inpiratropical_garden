@@ -1,0 +1,144 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_3B925622_6BD2_25CF_41D1_617F843DA830.source = http://www.loremipsum.com
+WebFrame_25B10F05_6BD6_63D5_41B8_09F15350EAD4.url = https://maps.app.goo.gl/fdp1s8DXLNnvB3iz8 
+LinkBehaviour_2412AA0A_0A33_BA17_419F_5B9C9F686FD0.source = //www.youtube.com/embed/go2IXhA711U?v=go2IXhA711U
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_7BB8C925_6ABE_2FD5_41C1_3E32FC54ED85.text = Activty  Zone 
+HotspotPanoramaOverlayTextImage_7BB94A78_6AD1_E23B_41D3_022F11618599.text = Board Games
+HotspotPanoramaOverlayTextImage_7BE8BAC0_6AD2_E24A_4192_82EE498D1248.text = Board Games
+HotspotPanoramaOverlayTextImage_7804B09C_6AD2_3EFB_41C1_87C6D4CB1F9B.text = Children's Play Area
+HotspotPanoramaOverlayTextImage_5EF9C0B7_6B76_5E36_41D0_67DF3739125E.text = Club House
+HotspotPanoramaOverlayTextImage_79E4C44C_6AD2_265A_41C1_0A80A58277B3.text = Club House
+HotspotPanoramaOverlayTextImage_78EBBC12_6AD6_E5CF_41C2_96F43A66091F.text = Driveway
+HotspotPanoramaOverlayTextImage_6538C7CD_6ABE_E255_41D9_267E58853519.text = Driveway
+HotspotPanoramaOverlayTextImage_64294EA0_6AAE_22CA_4180_301E8FA312E8.text = Entrance arch with Security
+HotspotPanoramaOverlayTextImage_79FF210D_6AD3_FFD5_41DA_AD5207129F2A.text = Entry
+HotspotPanoramaOverlayTextImage_781184A6_6AF2_66D7_41D5_7BC2E59F41FF.text = Gym
+HotspotPanoramaOverlayTextImage_78C80460_6AD2_264B_41B6_CBFCFC49590C.text = Half Basketball Court
+HotspotPanoramaOverlayTextImage_7E965D76_6AF6_2637_41D4_CE8A9816CD4F.text = Indoor Games
+HotspotPanoramaOverlayTextImage_7800497C_6AEE_EE3B_41CC_C0266C3442C5.text = Indoor Games
+HotspotPanoramaOverlayTextImage_7BA3813C_6AB2_FE3B_41D1_DDC18E11281A.text = Landscape Driveway
+HotspotPanoramaOverlayTextImage_78914CD1_6AD2_664D_41D6_E4933B2FACAD.text = Landscape Driveway
+HotspotPanoramaOverlayTextImage_78A4982F_6AD2_2DD5_41D6_FE609110F28D.text = Landscape Driveway
+HotspotPanoramaOverlayTextImage_65137B40_6AB6_224A_41DA_455FB790C1FD.text = Landscape Driveway
+HotspotPanoramaOverlayTextImage_7B533404_6AB3_E5CA_41D7_FB0903497AD2.text = Landscape Driveway
+HotspotPanoramaOverlayTextImage_6504646F_6AB2_6655_419E_F8B284BD21D7.text = Landscape Garden
+HotspotPanoramaOverlayTextImage_79DA2CB8_6AEE_263B_41C4_96D17257C1D9.text = Lobby & Lift Area
+HotspotPanoramaOverlayTextImage_7823B515_6ADE_E7F5_41D3_FAEBA8F426A9.text = Multipurpose Ground
+HotspotPanoramaOverlayTextImage_7B095007_6ADF_DDD5_41B1_9A91DCEC20CD.text = Multipurpose Ground
+HotspotPanoramaOverlayTextImage_79941842_6AF6_6E4F_41B7_13B7876219AE.text = Party Hall
+HotspotPanoramaOverlayTextImage_7B14A5E8_6AB6_265B_41B2_7CE156A604F2.text = Pathway
+HotspotPanoramaOverlayTextImage_7BB07787_6AAE_E2D5_4151_E84821C81747.text = Pathway
+HotspotPanoramaOverlayTextImage_7BDA8045_6AD2_DE55_4176_265E38D8BB15.text = Pathway
+HotspotPanoramaOverlayTextImage_79DBF593_6AD7_E6CD_4175_CFCAF11D7C3D.text = Swimming Pool
+HotspotPanoramaOverlayTextImage_7AD8600A_6AAE_7DDE_41D7_46AF07AF00E3.text = Swimmingpool
+HotspotPanoramaOverlayTextImage_79678804_6AF2_2DCB_41CF_7679F9D5A64E.text = Table Tennis Room
+HotspotPanoramaOverlayTextImage_7BB5FAC5_6AD2_624A_41CE_050772143D3A.text = Waiting Sitout
+
+## Media
+
+### Image
+imlevel_477B0D13_6B56_67CD_41C3_AF6337C286D0.url = media/panorama_780F9544_6985_E66E_41BD_8B64A252EA96_HS_8tv3mfqf_en.png
+imlevel_403E1630_6B56_65CB_41CA_7ED1F1B75D79.url = media/panorama_7845C592_6985_26EA_41D4_943A317DECE6_HS_3744vs6b_en.png
+imlevel_40B6F737_6B56_6235_41D9_8C14A2FCF2C5.url = media/panorama_7902EA78_6985_2226_41B8_4DC1E27C0118_HS_5v80jwjt_en.png
+imlevel_40ADF687_6B56_62D5_41C2_37C568A32608.url = media/panorama_7902EA78_6985_2226_41B8_4DC1E27C0118_HS_b27985sg_en.png
+imlevel_20443DBF_6BB2_2635_41DA_BF9DE6FEF005.url = media/panorama_7902EA78_6985_2226_41B8_4DC1E27C0118_HS_g0gywfpb_en.png
+imlevel_40B0E708_6B56_63DB_41D9_1F0BBDF69A31.url = media/panorama_7902EA78_6985_2226_41B8_4DC1E27C0118_HS_qiwaz3ro_en.png
+imlevel_40AC16B4_6B56_62CB_41CD_58DB970EB962.url = media/panorama_7902EA78_6985_2226_41B8_4DC1E27C0118_HS_s2kdpzj2_en.png
+imlevel_20466DDB_6BB2_267D_419A_98D1E1FDE846.url = media/panorama_79040F17_6985_23E9_41BB_2E1AB7A357CD_HS_2u5hijpi_en.png
+imlevel_40B9C7D9_6B56_627D_4198_434BBC302ED6.url = media/panorama_79040F17_6985_23E9_41BB_2E1AB7A357CD_HS_72fna94k_en.png
+imlevel_40B4877F_6B56_6235_41D0_C3299F3FE7BC.url = media/panorama_79040F17_6985_23E9_41BB_2E1AB7A357CD_HS_cf3v0tfz_en.png
+imlevel_47774CBA_6B56_663F_41B3_82278A04EBB0.url = media/panorama_79052947_6985_6E6A_41D0_74D579A897BC_HS_iblsfn2c_en.png
+imlevel_47752CFA_6B56_663F_41D9_9A95E02F02E9.url = media/panorama_790554A8_6985_6626_41D6_CBAD6ED3AF3E_HS_l6cgyohg_en.png
+imlevel_20480F05_6BB2_23CA_41D8_D1A749EFC70D.url = media/panorama_790696CA_6985_627A_41CC_AB7A71A29DB5_HS_98tcf7ek_en.png
+imlevel_204CAEA2_6BB2_22CE_41D5_D7C18E01DD51.url = media/panorama_790696CA_6985_627A_41CC_AB7A71A29DB5_HS_ihqdthl6_en.png
+imlevel_47650B3A_6B56_623F_41C4_C081944EBC83.url = media/panorama_790696CA_6985_627A_41CC_AB7A71A29DB5_HS_o3omxb3s_en.png
+imlevel_475CEA60_6B56_624B_41AC_4E28DAD180D9.url = media/panorama_790696CA_6985_627A_41CC_AB7A71A29DB5_HS_psuk8lmf_en.png
+imlevel_204D5EDA_6BB2_227E_41D5_5CAC6B603475.url = media/panorama_790696CA_6985_627A_41CC_AB7A71A29DB5_HS_sr9g1a7x_en.png
+imlevel_40C24880_6B56_6ECB_41C9_AFDD794015A2.url = media/panorama_79069803_6985_2DEA_41C3_1109D18376E5_HS_arxamuh7_en.png
+imlevel_20476E0D_6BB2_25DA_41CF_963CFD69B570.url = media/panorama_79069803_6985_2DEA_41C3_1109D18376E5_HS_rllu9ag0_en.png
+imlevel_476F8BC3_6B56_624D_41CC_383EEFAB441F.url = media/panorama_79069B69_6985_6226_41D4_674021B39566_HS_7yxvv0dx_en.png
+imlevel_476CDC14_6B56_65CB_4190_1A98547F4102.url = media/panorama_79069B69_6985_6226_41D4_674021B39566_HS_j6x57q04_en.png
+imlevel_20471DF2_6BB2_264E_41C7_564A110F2988.url = media/panorama_7906A396_6985_22EA_41C8_97753E78994A_HS_qznp6i70_en.png
+imlevel_40BCA846_6B56_6E57_41B4_54B1CBB236E2.url = media/panorama_7906A396_6985_22EA_41C8_97753E78994A_HS_sz0nw47m_en.png
+imlevel_475E1A0B_6B56_6DDD_41B8_1025FDCFDA29.url = media/panorama_7906E22B_6985_623A_41D2_475FFEECAC72_HS_39jfty0m_en.png
+imlevel_4758C9A8_6B56_6EDB_41D5_07459C7DACC1.url = media/panorama_7906E22B_6985_623A_41D2_475FFEECAC72_HS_dcu586xj_en.png
+imlevel_20425E83_6BB2_22CE_41B0_0CA41DCC6911.url = media/panorama_7906ED8B_6985_26FA_41CE_7848F55BB2A5_HS_ihyiq5o1_en.png
+imlevel_40C708E0_6B56_6E4B_41D1_8750D56C0E59.url = media/panorama_7906ED8B_6985_26FA_41CE_7848F55BB2A5_HS_m2406b5n_en.png
+imlevel_20412E57_6BB2_2276_41C0_DDCF24577B56.url = media/panorama_7906ED8B_6985_26FA_41CE_7848F55BB2A5_HS_y2ap39r8_en.png
+imlevel_476C6C30_6B56_65CB_41BD_CF8BF8BE8186.url = media/panorama_790EC996_6985_EEEA_41D7_53FCE9C7F116_HS_lhgvca2d_en.png
+imlevel_4770BC84_6B56_66CB_41BB_0A4E3B344C90.url = media/panorama_790EC996_6985_EEEA_41D7_53FCE9C7F116_HS_u8p23sg3_en.png
+imlevel_47796D3D_6B56_6635_41D2_DA9A02392AD9.url = media/panorama_790EFDC1_6985_E669_4192_762C08723268_HS_kpa4mdxe_en.png
+
+### Title
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_0.label = 01
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_1.label = 02
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_2.label = 03
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_3.label = 04
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_4.label = 05
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_5.label = 06
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_6.label = 07
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_7.label = 08
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_8.label = 09
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_9.label = 10
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_10.label = 11
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_11.label = 12
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_12.label = 13
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_13.label = 14
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_14.label = 15
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_15.label = 16
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_16.label = 17
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_17.label = 18
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_18.label = 19
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_19.label = 20
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_20.label = 21
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153_21.label = 22
+panorama_7906E22B_6985_623A_41D2_475FFEECAC72.label = Activity Zone
+panorama_79069B69_6985_6226_41D4_674021B39566.label = Club house
+panorama_7902EA78_6985_2226_41B8_4DC1E27C0118.label = Driveway
+panorama_7845C592_6985_26EA_41D4_943A317DECE6.label = Entry
+panorama_790554A8_6985_6626_41D6_CBAD6ED3AF3E.label = Gym
+panorama_79052947_6985_6E6A_41D0_74D579A897BC.label = Indoor games
+panorama_7906ED8B_6985_26FA_41CE_7848F55BB2A5.label = Landscape
+panorama_780F9544_6985_E66E_41BD_8B64A252EA96.label = Partyhall
+panorama_79040F17_6985_23E9_41BB_2E1AB7A357CD.label = Pathway
+album_6F4FF6A1_7FAB_B26D_41CB_58E7A064D153.label = Photo Album 01
+panorama_790696CA_6985_627A_41CC_AB7A71A29DB5.label = Play area
+panorama_790EC996_6985_EEEA_41D7_53FCE9C7F116.label = Reception
+panorama_79069803_6985_2DEA_41C3_1109D18376E5.label = Swimming Pool
+panorama_790EFDC1_6985_E669_4192_762C08723268.label = TT Room
+panorama_7906A396_6985_22EA_41C8_97753E78994A.label = Water Feature
+
+## Skin
+
+### Button
+Button_25B6BF06_6BD6_63D7_4199_C29B990BF5AA.label = BOOK NOW
+
+### Dropdown
+DropDown_28873B32_339B_CC16_41B9_73D7CD333B14.prompt = Amenities
+
+### Image
+Image_46F218F7_6B52_2E35_41D9_851807828B33.url = skin/Image_46F218F7_6B52_2E35_41D9_851807828B33_en.png
+Image_5C6D9270_7FD6_D2EB_41D3_EA94F622F375.url = skin/Image_5C6D9270_7FD6_D2EB_41D3_EA94F622F375_en.png
+Image_7425C62B_6AD2_25DE_41BC_B178F7B22B9E.url = skin/Image_7425C62B_6AD2_25DE_41BC_B178F7B22B9E_en.png
+
+### Label
+Label_4464D137_512A_6362_41C4_901780936081.text = Contact
+Label_448BEA83_5157_A122_41D1_C893F76A60BE.text = Panorama
+
+### Multiline Text
+HTMLText_25B68F06_6BD6_63D7_41B0_C32142182CFE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7200000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:2.72vh;font-family:'Antonio';"><B>#.139/3 (old 68/3) Gulimangala Village, Shantipura Main Rd, Shanthi Pura, Phase 2, Electronic City, </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7200000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:2.72vh;font-family:'Antonio';"><B>Bengaluru -560100</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tropical garden
